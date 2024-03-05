@@ -8,6 +8,8 @@ The "Hong Kong Early Tabloid Newspapers"《香港早期小報》, launched in 20
 ## Motivation
 Current digital assets can be utilized to provide value beyond preservation and online access. There is ample room for optimizing the usage of digitized images. In addition to images, our team will employ various computational techniques to explore additional value in this tabloid newspaper. Another challenge for users is gaining concrete insights from the newspaper content, especially when dealing with large-scale corpora. To address this challenge, we have implemented headline analysis as a useful tool for newspaper topic analytics. Our project has two main objectives. Firstly, providing two semi-automatic procedures for recognizing and extracting newspaper headlines. Secondly, developing two visualization products to enhance users' access to our digital repository. These visualization products not only provide scholars with insights into headlines across different times and spaces but also enable them to address humanities-related questions, such as "Which battles were the focus of Japanese propaganda at specific times?" and "How did Japanese propaganda evolve during the war?"
 
-This project covers 530 issues of The Hongkong News from the years 1942 to 1945. The related dataset is available at the CUHK Research Data Repository, while the digital images of The Hongkong News are accessible in the CUHK Digital Repository.<br />
-CUHK Research Data Repository: https://doi.org/10.48668/E6JEKD<br />
+This project covers 530 issues of The Hongkong News from the years 1942 to 1945. The related dataset is available at the CUHK Research Data Repository, while the digital images of The Hongkong News are accessible in the CUHK Digital Repository.
+
+## Acknowledgement
+CUHK Research Data Repository: https://doi.org/10.48668/E6JEKD
 CUHK Digital Repository: https://repository.lib.cuhk.edu.hk/en/collection/cuhk-hk-tabloid
