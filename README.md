@@ -12,4 +12,5 @@ This project covers 530 issues of The Hongkong News from the years 1942 to 1945.
 
 ## Acknowledgement
 CUHK Research Data Repository: https://doi.org/10.48668/E6JEKD
+
 CUHK Digital Repository: https://repository.lib.cuhk.edu.hk/en/collection/cuhk-hk-tabloid
