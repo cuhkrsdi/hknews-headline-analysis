@@ -2,6 +2,11 @@
 ## Introduction
 Digital scholarship tools nowadays offer scholars multiple options to explore the complex past. They can browse through an interactive timeline, study the vast amount of digitized textual content, or delve into significant events through newspaper headlines. This project delves into issues of narrative time and space, embracing a concept of geography as a place to discover the contemporary lives connected to newspaper articles. Time is another fundamental element of narrative that can be utilized for storytelling in digital scholarship. The project explores how new digital tools allow us to comprehend newspaper content within the context of time and space, enabling the convergence of geography and history through sophisticated text-mining computational algorithms. The objective is to provide scholars with access to the content from various perspectives, aiming to understand newspaper articles through a non-conventional approach.
 
+## Methodology
+### Object Detection
+### Data Extraction
+### Visualization
+
 ## The Data
 The "Hong Kong Early Tabloid Newspapers"《香港早期小報》, launched in 2022, has compiled tabloid newspapers published in Hong Kong during the 20th century. Unlike the seriously broadsheet newspapers, tabloids catered to the leisure and entertainment interests of the masses, covering topics such as politics, operas, dramas, comics, and pornography, among others. In this project, we analyze The Hongkong News from our Hong Kong Early Tabloid Newspapers Collection using the aforementioned approaches. The Japanese Occupation edition of The Hongkong News commenced publication in 1941 shortly after the Christmas Day surrender of the British Crown Colony and continued until August 17, 1945, just a week before Hong Kong's liberation. The publication of The Hongkong News during the Japanese Occupation provides scholars with insights into Japan's perspective from Hong Kong.
 
