@@ -1,4 +1,5 @@
 # hknews-headline-analysis
+![alt text](./image/promote.jpg)
 ## Introduction
 Digital scholarship tools nowadays offer scholars multiple options to explore the complex past. They can browse through an interactive timeline, study the vast amount of digitized textual content, or delve into significant events through newspaper headlines. This project delves into issues of narrative time and space, embracing a concept of geography as a place to discover the contemporary lives connected to newspaper articles. Time is another fundamental element of narrative that can be utilized for storytelling in digital scholarship. The project explores how new digital tools allow us to comprehend newspaper content within the context of time and space, enabling the convergence of geography and history through sophisticated text-mining computational algorithms. The objective is to provide scholars with access to the content from various perspectives, aiming to understand newspaper articles through a non-conventional approach.
 
